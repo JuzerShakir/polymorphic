@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  os: one
+  os_type: Os
+
+two:
+  name: MyString
+  os: two
+  os_type: Os

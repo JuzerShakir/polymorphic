@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  distros: MyString
+  ver: MyString
+  release_date: 2021-09-03
+
+two:
+  distros: MyString
+  ver: MyString
+  release_date: 2021-09-03
